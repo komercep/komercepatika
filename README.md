@@ -1,0 +1,2 @@
+# komercepatika
+patika sql homework
